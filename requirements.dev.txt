@@ -1,0 +1,15 @@
+autoflake
+black
+flake8
+isort
+radon
+mypy
+pytest
+pytest-cov
+devpi-client
+
+seed-isort-config
+
+boto>=2.49.0
+botocore>=1.10.72
+moto>=1.3.4
