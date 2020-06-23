@@ -49,7 +49,7 @@ print(stub.read_text())  # prints "hello-world"
 ## Installation
 
 ```bash
-pip install smart_path
+pip install -e git://github.com/wanzysky/smart_path.git#egg=smart_path
 ```
 
 # Notice:
