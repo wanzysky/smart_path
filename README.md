@@ -50,6 +50,8 @@ print(stub.read_text())  # prints "hello-world"
 
 ```bash
 pip install -e git://github.com/wanzysky/smart_path.git#egg=smart_path
+# Or from PyPI
+pip install smart_path
 ```
 
 # Notice:
