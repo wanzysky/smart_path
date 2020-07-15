@@ -1,2 +1,2 @@
 boto3>=1.7.47
-s3path @ git+https://github.com/wanzysky/s3path.git#egg=s3path
+s3path
