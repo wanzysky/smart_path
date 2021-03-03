@@ -8,7 +8,7 @@ from typing import Union
 import boto3
 import s3path
 from s3path import S3Path
-OSS_ENDPOINT = 's3.amazonaws.com'
+OSS_ENDPOINT = 'https://s3.amazonaws.com'
 
 __all__ = ["smart_path"]
 
