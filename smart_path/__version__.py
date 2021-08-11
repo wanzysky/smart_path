@@ -1,5 +1,5 @@
 __title__ = "smart_path"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __author__ = "Zhaoyi Wan"
 __author_email__ = "i@wanzy.me"
 __url__ = "https://github.com/wanzysky/smart_path"
